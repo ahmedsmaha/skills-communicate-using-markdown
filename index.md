@@ -4,3 +4,5 @@
 #### Hi H4
 ##### Nice H5
 ###### Last one H6
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
